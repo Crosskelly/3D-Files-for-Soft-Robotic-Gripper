@@ -7,4 +7,6 @@ The actuator (top, mid, bottom) files print the pieces to assemble the mold for 
 
 The sensor files print the pieces to assemble the mold for the palm sensor. 
 
-The 
+The code for the arduino is found in files Sensor.cpp, Sensor.h, and projectCode.ino (the main).
+
+The visualization code for the Processing application can be found in arduinoVisualization.pde.
